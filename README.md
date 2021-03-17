@@ -1,5 +1,7 @@
-# [React 808](https://react-808.netlify.app/)
+# React 808
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bac8bdc2-098b-4e2b-95ab-8e8fefa3e141/deploy-status)](https://app.netlify.com/sites/react-808/deploys)
+
+[View live version here!](https://react-808.netlify.app/)
 
 Full-stack drum machine app written for Week 15 Final CodeClan Project.  
 The app is designed to play 16 different sounds, modeled on the Roland TR-808.  
